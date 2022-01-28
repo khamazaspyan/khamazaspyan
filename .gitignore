@@ -1,0 +1,9 @@
+.DS_Store
+/.vscode
+/.history
+.editorconfig
+/supervisord.log
+/.idea
+/.cache
+/public/mix-manifest.json
+package-lock.json
