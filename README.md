@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karen Hamazaspyan</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A Sr Full Stack Developer passionate about building software solutions for everything.</h3>
 
 
