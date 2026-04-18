@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hamazaspyan.xyz"><img src="https://img.shields.io/badge/Portfolio-hamazaspyan.xyz-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:hi@hamazaspyan.xyz"><img src="https://img.shields.io/badge/Email-hi@hamazaspyan.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:khamazaspyan@gmail.com"><img src="https://img.shields.io/badge/Email-khamazaspyan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/khamazaspyan"><img src="https://img.shields.io/badge/LinkedIn-khamazaspyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/khamazaspyan"><img src="https://img.shields.io/badge/Twitter-@khamazaspyan-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
 </p>
